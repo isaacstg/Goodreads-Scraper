@@ -4,4 +4,4 @@ plotly
 vaderSentiment
 matplotlib
 wordcloud
-BeautifulSoup
+bs4
