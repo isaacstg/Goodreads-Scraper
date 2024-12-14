@@ -130,7 +130,7 @@ def load_data(filename):
     return pd.read_csv(filename)
 
 def show_main_insights(df):
-    st.header('Top 50 Libros Leídos')
+    st.header('Top 50 Libros más Leídos')
     if df is not None:
         df_resumen = df.drop(columns=['Reviews','Synopsis','Genres'])
         st.dataframe(df_resumen, hide_index=True)
