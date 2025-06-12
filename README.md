@@ -1,5 +1,5 @@
 # Goodreads-Scraper
-````markdown
+
 # 📚 Goodreads: Análisis de Libros y de Reviews
 
 Este proyecto realiza scraping de Goodreads para analizar los libros más leídos por país y período de tiempo. Permite visualizar tendencias literarias, géneros predominantes, años de publicación, longitud de los libros, y realizar análisis de sentimiento sobre las reseñas más populares.
@@ -37,7 +37,7 @@ Este proyecto realiza scraping de Goodreads para analizar los libros más leído
    ```bash
    git clone https://github.com/tu-usuario/goodreads-analisis.git
    cd goodreads-analisis
-````
+   ```
 
 2. (Opcional) Crea y activa un entorno virtual:
 
@@ -119,5 +119,3 @@ Guárdalos en un archivo `requirements.txt` para instalación rápida.
 ## 🖋️ Autoría
 
 Proyecto desarrollado como práctica de análisis de datos con Python y Streamlit.
-
-```
